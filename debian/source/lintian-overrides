@@ -1,0 +1,5 @@
+python-secretstorage source: file-without-copyright-information
+python-secretstorage source: no-debian-changes
+python-secretstorage source: source-contains-prebuilt-windows-binary
+python-secretstorage source: source-is-missing
+python-secretstorage source: source-package-encodes-python-version
